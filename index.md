@@ -6,11 +6,11 @@ __DMR 2025 will be held in beautiful Prague, Czechia, August 4-5, 2025.__
 
 ## Important Dates
 
-| Workshop papers due            | April 21, 2025       |
-|:------------------------------:|:--------------------:|
-| __Notification of acceptance__ | __June 16, 2025__    |
-| __Camera-ready papers due__    | __July 1, 2025__     |
-| __Workshop dates__             | __August 4-5, 2025__ |
+| Workshop papers due (**deadline extended!**) | ~~April 21~~ April 28, 2025 |
+|:--------------------------------------------:|:---------------------------:|
+| __Notification of acceptance__               | __June 16, 2025__           |
+| __Camera-ready papers due__                  | __July 1, 2025__            |
+| __Workshop dates__                           | __August 4-5, 2025__        |
 
 All deadlines are 11:59PM UTC-12:00 ("anywhere on Earth").
 
