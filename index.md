@@ -2,7 +2,7 @@ __Welcome to DMR 2025, the 6th International Workshop on Designing Meaning Repre
 
 ![Prague Castle](assets/prague-castle.jpg)
 
-__DMR 2025 will be held in beautiful Prague, Czechia, August 4-5, 2025.__
+__DMR 2025 will be held at Charles University in beautiful Prague, Czechia, August 4-5, 2025.__
 
 ## Important Dates
 
