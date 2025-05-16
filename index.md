@@ -6,15 +6,16 @@ __DMR 2025 will be held at Charles University in beautiful Prague, Czechia, Augu
 
 ## Important Dates
 
-| Workshop papers due (**deadline extended!**) | ~~April 21~~ April 28, 2025 |
-|:--------------------------------------------:|:---------------------------:|
-| __Notification of acceptance__               | __June 16, 2025__           |
-| __Camera-ready papers due__                  | __July 1, 2025__            |
-| __Workshop dates__                           | __August 4-5, 2025__        |
+| Direct submission deadline     | April 28, 2025       |
+|:------------------------------:|:--------------------:|
+| __ARR commitment deadline__    | __May 30, 2025__     |
+| __Notification of acceptance__ | __June 16, 2025__    |
+| __Camera-ready papers due__    | __July 1, 2025__     |
+| __Workshop dates__             | __August 4-5, 2025__ |
 
 All deadlines are 11:59PM UTC-12:00 ("anywhere on Earth").
 
-__Submit your papers on OpenReview [here](https://openreview.net/group?id=DMR/2025)!__
+__New: DMR 2025 is now accepting commitments from ACL Rolling Review (ARR)! Submit your papers and reviews on OpenReview [here](https://openreview.net/group?id=DMR/2025_ARR_Commitment) by May 30.__ For more information on ARR in general, see https://aclrollingreview.org.
 
 ## Call for Papers
 
