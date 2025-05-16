@@ -1,18 +1,21 @@
 ## Important Dates
 
-| Workshop papers due (**deadline extended!**) | ~~April 21~~ April 28, 2025 |
-|:--------------------------------------------:|:---------------------------:|
-| __Notification of acceptance__               | __June 16, 2025__           |
-| __Camera-ready papers due__                  | __July 1, 2025__            |
-| __Workshop dates__                           | __August 4-5, 2025__        |
+| Direct submission deadline     | April 28, 2025       |
+|:------------------------------:|:--------------------:|
+| __ARR commitment deadline__    | __May 30, 2025__     |
+| __Notification of acceptance__ | __June 16, 2025__    |
+| __Camera-ready papers due__    | __July 1, 2025__     |
+| __Workshop dates__             | __August 4-5, 2025__ |
 
 All deadlines are 11:59PM UTC-12:00 ("anywhere on Earth").
 
-__Submit your papers on OpenReview [here](https://openreview.net/group?id=DMR/2025)!__ Please note that while new profiles created with an institutional email will be activated automatically, new profiles created without an institutional email will go through a moderation process that can take up to two weeks.
+__New: DMR 2025 is now accepting commitments from ACL Rolling Review (ARR)! Submit your papers and reviews on OpenReview [here](https://openreview.net/group?id=DMR/2025_ARR_Commitment) by May 30.__ For more information on ARR in general, see https://aclrollingreview.org.
+
+<!-- __Submit your papers on OpenReview [here](https://openreview.net/group?id=DMR/2025)!__ Please note that while new profiles created with an institutional email will be activated automatically, new profiles created without an institutional email will go through a moderation process that can take up to two weeks. -->
 
 ## Paper Submission and Templates
 
-We accept long papers (describing substantial original research) of up to eight (8) pages and short papers (making a small, focused contribution) of up to four (4) pages. If a paper is accepted, the authors will be given an additional page to address reviewers’ comments in the final version. The ethics statement (optional), limitations (optional), references, and appendices do not count against these limits. Long and short papers will be directly submitted via OpenReview at the following [link](https://openreview.net/group?id=DMR/2025). Papers should adhere to the following guidelines (from ACL Rolling Review):
+We accept long papers (describing substantial original research) of up to eight (8) pages and short papers (making a small, focused contribution) of up to four (4) pages. If a paper is accepted, the authors will be given an additional page to address reviewers’ comments in the final version. The ethics statement (optional), limitations (optional), references, and appendices do not count against these limits. The ARR commitment link is [here](https://openreview.net/group?id=DMR/2025_ARR_Commitment), while the direct submission link is [here](https://openreview.net/group?id=DMR/2025). Papers should adhere to the following guidelines (from ACL Rolling Review):
 - [Instructions for Two-Way Anonymized Review](https://aclrollingreview.org/cfp#instructions-for-two-way-anonymized-review)
 - [Authorship](https://aclrollingreview.org/cfp#authorship)
 - [Citation and Comparison](https://aclrollingreview.org/cfp#citation-and-comparison)
