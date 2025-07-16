@@ -2,18 +2,18 @@ __Welcome to DMR 2025, the 6th International Workshop on Designing Meaning Repre
 
 ![Prague Castle](assets/prague-castle.jpg)
 
-__DMR 2025 will be held at Charles University in beautiful Prague, Czechia, August 4-5, 2025.__
+__DMR 2025 will be held at Charles University in beautiful Prague, Czechia, August 4, 2025.__
 
 __New: Registration for DMR 2025 is now open! The registration form is [here](https://docs.google.com/forms/d/e/1FAIpQLSfj2dZE9L_R1vSBlBfPXfs_6ZYUC-QIEiox9UFr06uYwL9IEg/viewform). Registration is FREE and includes access to all DMR 2025 events, including the social dinner on August 4.__
 
 ## Important Dates
 
-| Direct submission deadline     | April 28, 2025       |
-|:------------------------------:|:--------------------:|
-| __ARR commitment deadline__    | __May 30, 2025__     |
-| __Notification of acceptance__ | __June 16, 2025__    |
-| __Camera-ready papers due__    | __July 1, 2025__     |
-| __Workshop dates__             | __August 4-5, 2025__ |
+| Direct submission deadline     | April 28, 2025     |
+|:------------------------------:|:------------------:|
+| __ARR commitment deadline__    | __May 30, 2025__   |
+| __Notification of acceptance__ | __June 16, 2025__  |
+| __Camera-ready papers due__    | __July 1, 2025__   |
+| __Workshop date__              | __August 4, 2025__ |
 
 All deadlines are 11:59PM UTC-12:00 ("anywhere on Earth").
 
