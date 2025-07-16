@@ -1,11 +1,11 @@
 ## Important Dates
 
-| Direct submission deadline     | April 28, 2025       |
-|:------------------------------:|:--------------------:|
-| __ARR commitment deadline__    | __May 30, 2025__     |
-| __Notification of acceptance__ | __June 16, 2025__    |
-| __Camera-ready papers due__    | __July 1, 2025__     |
-| __Workshop dates__             | __August 4-5, 2025__ |
+| Direct submission deadline     | April 28, 2025     |
+|:------------------------------:|:------------------:|
+| __ARR commitment deadline__    | __May 30, 2025__   |
+| __Notification of acceptance__ | __June 16, 2025__  |
+| __Camera-ready papers due__    | __July 1, 2025__   |
+| __Workshop date__              | __August 4, 2025__ |
 
 All deadlines are 11:59PM UTC-12:00 ("anywhere on Earth").
 
