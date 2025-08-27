@@ -35,3 +35,9 @@ The workshop solicits papers that address one or more of the following topics:
 - Meaning representation evaluation metrics;
 - Cross-framework comparison of meaning representations and their formal properties;
 - Any other topics that address the design, processing, and use of meaning representations.
+
+## Sponsors
+
+Supported in part by:
+
+![Ministry of Education, Youth and Sports of the Czech Republic](assets/DMR_MSMT.png)
